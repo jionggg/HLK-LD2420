@@ -9,8 +9,8 @@ English mini tutorial with video demo: \
 https://fritzenlab.net/2025/01/04/hilink-ultrasonic-presence-sensor/ <br />
 
 ### CN-ENG files compare 
-2420协议文档 == LD2420_protocol-documentation \
-2420配置文件 == LD2420_configuration-settings \
-HLK-LD2420上报解析参考代码 == HLK-LD2420_report-analysis-reference-code \
-HLK-LD2420用户使用手册 == HLK-LD2420_user-manual. _=> Compare both docs side by side to read any imperfect language conversion (eg. latex on pg 11/29)_ \
-HLK-LD2420_TOOL _=> app to read and custom config your radar params_
+2420协议文档 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;== LD2420_protocol-documentation \
+2420配置文件 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;== LD2420_configuration-settings \
+HLK-LD2420上报解析参考代码  == HLK-LD2420_report-analysis-reference-code \
+HLK-LD2420用户使用手册 &emsp;&emsp;== HLK-LD2420_user-manual. _=> Compare both docs side by side to read any imperfect language conversion (eg. latex on pg 11/29)_ \
+HLK-LD2420_TOOL _ &emsp;&emsp;&emsp;&emsp; -> app to read and custom config your radar params_
