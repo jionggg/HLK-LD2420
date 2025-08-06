@@ -19,9 +19,9 @@ HLK-LD2420_TOOL _ &emsp;&emsp;&emsp;&emsp; -> app to read and custom config your
 _**A basic use case can be tested by flashing mmWave-PicoPi-samplecode.py (attached), thru thonny, for instance.**_
 
 ### Pin connections:
-radar-pico/TTL \
-3V3 &emsp; - 3V3 \
-GND&emsp;- GND \
-OT1 &emsp;- RX \
-RX&emsp;&emsp;- TX \
-OT2 &emsp;- GPIO (optional)
+<ins>radar</ins>&emsp;-&emsp;<ins>pico/TTL</ins> \
+3V3 &emsp; - &emsp;3V3 \
+GND&emsp;- &emsp;GND \
+OT1 &emsp;- &emsp;RX \
+RX&emsp;&emsp;- &emsp;TX \
+OT2 &emsp;- &emsp;GPIO (optional)
