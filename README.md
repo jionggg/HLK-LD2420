@@ -14,3 +14,14 @@ https://fritzenlab.net/2025/01/04/hilink-ultrasonic-presence-sensor/ <br />
 HLK-LD2420上报解析参考代码  == HLK-LD2420_report-analysis-reference-code \
 HLK-LD2420用户使用手册 &emsp;&emsp;== HLK-LD2420_user-manual. _=> Compare both docs side by side to read any imperfect language conversion (eg. latex on pg 11/29)_ \
 HLK-LD2420_TOOL _ &emsp;&emsp;&emsp;&emsp; -> app to read and custom config your radar params_
+
+<br />  <br />
+_**A basic use case can be tested by flashing mmWave-PicoPi-samplecode.py (attached), thru thonny, for instance.**_
+
+### Pin connections:
+radar-pico/TTL \
+3V3 &emsp; - 3V3 \
+GND&emsp;- GND \
+OT1 &emsp;- RX \
+RX&emsp;&emsp;- TX \
+OT2 &emsp;- GPIO (optional)
